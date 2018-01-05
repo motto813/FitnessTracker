@@ -1,0 +1,13 @@
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/model/Exercise.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/repository/GoalRepository.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/model/Goal.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/controller/GoalController.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/model/Activity.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/repository/ExerciseRepository.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/service/ExerciseService.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/service/GoalService.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/service/ExerciseServiceImpl.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/controller/MinutesController.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/model/GoalReport.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/controller/HelloController.java
+/Users/paulhammerschmidt/IdeaProjects/FitnessTracker/src/main/java/com/pluralsight/service/GoalServiceImpl.java
